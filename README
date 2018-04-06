@@ -22,7 +22,7 @@ go get github.com/pmylund/go-hmaccrypt
 == Documentation
 
 go doc github.com/pmylund/go-hmaccrypt
-or http://go.pkgdoc.org/github.com/pmylund/go-hmaccrypt
+or https://godoc.org/github.com/pmylund/go-hmaccrypt
 
 == Usage
 
